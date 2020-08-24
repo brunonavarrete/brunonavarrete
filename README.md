@@ -1,6 +1,6 @@
 # Hi! :wave: I'm Bruno
 
-And this is my GitHub quick profile containing both my **toolbelt** and a quick **get to know me** script for your JS console.
+I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick profile containing both my [toolbelt](#toolbelt) and a quick [get to know me](#get-to-know-me) script for your JS console.
 
 ---
 
@@ -66,7 +66,7 @@ And this is my GitHub quick profile containing both my **toolbelt** and a quick 
 
 ```javascript
 
-	/* Run the shareHobbie() method and get to know me a bit */
+	/* Generate an instance and run the shareHobbie() method to get to know me a bit */
 
 	class WebDeveloper {
 		constructor(fullName, fuel, hobbies) {
@@ -75,9 +75,10 @@ And this is my GitHub quick profile containing both my **toolbelt** and a quick 
 			this._hobbies = hobbies
 		}
 		shareHobbie() { // <<< here it is
-			let index = Math.floor(Math.random() * 4) + 1  
+			const hobbiesLength = this._hobbies.length
+			const index = Math.floor(Math.random() * 4) + 1  
 			
-			console.log( `Check out this great ${ this._hobbies[index]['name'] }! :3` )
+			console.log(`/* --- Check out this great ${ this._hobbies[index]['name'] }! :3 --- */`)
 			
 			setTimeout(() => {
 				window.open( this._hobbies[index]['url'], '_blank' )
