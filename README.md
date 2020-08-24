@@ -1,6 +1,6 @@
 # Hi! :wave: I'm Bruno
 
-I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick profile containing both my [toolbelt](#toolbelt) and a quick [get to know me](#get-to-know-me) script for your JS console.
+I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick profile containing both my [toolbelt](#toolbelt) and a quick [get to know me](#get-to-know-me) script for your JS console. Enjoy your visit :coffee:!
 
 ---
 
