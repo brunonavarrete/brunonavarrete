@@ -1,8 +1,14 @@
 ```js
 
-	import WebDeveloper from 'https://en.wikipedia.org/wiki/Web_developer';
+	class WebDeveloper {
+		constructor(fullName, fuel, hobbies) {
+			this.fullName = fullName
+			this.fuel = fuel
+			this.hobbies = hobbies
+		}
+	}
 
-	class Bruno extends WebDeveloper {}
+	const Bruno = new WebDeveloper('Bruno Navarrete','coffee (beer on weekends)', 'Audible, Binging series, Breaking diets')
 
 ```
 ---
