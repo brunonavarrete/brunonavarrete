@@ -1,4 +1,10 @@
+# Hi! :wave: I'm Bruno
+
+And this is my GitHub quick profile containing both my **toolbelt** and a quick **get to know me** script for your JS console.
+
 ---
+
+## Toolbelt
 
 #### Markup and Stylesheets
 
@@ -55,6 +61,8 @@
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Postman&color=cdb47a&style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+## Get to know me
 
 ```javascript
 
