@@ -1,14 +1,46 @@
 ```js
 
+	/* open up you js console and check out my hobbies */
+
 	class WebDeveloper {
 		constructor(fullName, fuel, hobbies) {
-			this.fullName = fullName
-			this.fuel = fuel
-			this.hobbies = hobbies
+			this._fullName = fullName
+			this._fuel = fuel
+			this._hobbies = hobbies
+		}
+		shareHobbie() { // <<< here it is
+			let index = Math.floor(Math.random() * 4) + 1  
+			
+			console.log( `Hey! Check out this great ${ this._hobbies[index]['name'] } :3` )
+			
+			setTimeout(() => {
+				window.open( this._hobbies[index]['url'], '_blank' )
+			},3000)
 		}
 	}
 
-	const Bruno = new WebDeveloper('Bruno Navarrete','coffee (beer on weekends)', 'Audible, Binging series, Breaking diets')
+	const Bruno = new WebDeveloper(
+		'Bruno Navarrete',
+		'Coffee', 
+		[
+			{
+				name:'Silly UK Game Show', 
+				url: 'https://www.youtube.com/results?search_query=wilty' 
+			},
+			{
+				name:'Great Audible', 
+				url: 'https://www.audible.com/pd/Extreme-Ownership-Audiobook/B015TVHUA2?qid=1598298681' 
+			},
+			{
+				name:'Show on Netflix', 
+				url: 'https://www.netflix.com/title/80203144' 
+			},
+			{
+				name:'Great Beer', 
+				url: 'https://www.samueladams.com/our-beers/originals/lager/boston-lager' 
+			}
+		]
+	)
 
 ```
 ---
