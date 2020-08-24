@@ -1,6 +1,6 @@
 # Hi! :wave:  I'm Bruno
 
-I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick profile containing both my [developer toolbelt](#toolbelt) and a quick [get to know me](#get-to-know-me) script for your JS console. Enjoy your visit :coffee:!
+I'm a Full Stack (Front End-first) Web Developer and this is my quick profile containing both my [developer toolbelt](#toolbelt) and a quick [get to know me](#get-to-know-me) script for your JS console. Enjoy your visit :coffee:!
 
 ---
 
@@ -60,7 +60,7 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Analytics&color=cdb47a&style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Postman&color=cdb47a&style=for-the-badge&logo=postman&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Markdown&color=cdb47a&style=for-the-badge&logo=markdown&logoColor=white)
-![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Homebrew&color=cdb47a&style=for-the-badge&logo=homebrew&logoColor=white)
+![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Homebrew&color=cdb47a&style=for-the-badge&logo=Homebrew&logoColor=white)
 
 ### Learning
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Treehouse&color=5fcf80&style=for-the-badge&logo=treehouse&logoColor=white&url=https://treehouse.com/brunonavarrete)
