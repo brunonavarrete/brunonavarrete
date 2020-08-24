@@ -1,48 +1,3 @@
-```js
-
-	/* open up you js console and check out my hobbies */
-
-	class WebDeveloper {
-		constructor(fullName, fuel, hobbies) {
-			this._fullName = fullName
-			this._fuel = fuel
-			this._hobbies = hobbies
-		}
-		shareHobbie() { // <<< here it is
-			let index = Math.floor(Math.random() * 4) + 1  
-			
-			console.log( `Hey! Check out this great ${ this._hobbies[index]['name'] } :3` )
-			
-			setTimeout(() => {
-				window.open( this._hobbies[index]['url'], '_blank' )
-			},3000)
-		}
-	}
-
-	const Bruno = new WebDeveloper(
-		'Bruno Navarrete',
-		'Coffee', 
-		[
-			{
-				name:'Silly UK Game Show', 
-				url: 'https://www.youtube.com/results?search_query=wilty' 
-			},
-			{
-				name:'Great Audible', 
-				url: 'https://www.audible.com/pd/Extreme-Ownership-Audiobook/B015TVHUA2?qid=1598298681' 
-			},
-			{
-				name:'Show on Netflix', 
-				url: 'https://www.netflix.com/title/80203144' 
-			},
-			{
-				name:'Great Beer', 
-				url: 'https://www.samueladams.com/our-beers/originals/lager/boston-lager' 
-			}
-		]
-	)
-
-```
 ---
 
 #### Markup and Stylesheets
@@ -99,7 +54,41 @@
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Analytics&color=cdb47a&style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Postman&color=cdb47a&style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
+```javascript
+
+	/* Run the shareHobbie() method and get to know me a bit */
+
+	class WebDeveloper {
+		constructor(fullName, fuel, hobbies) {
+			this._fullName = fullName
+			this._fuel = fuel
+			this._hobbies = hobbies
+		}
+		shareHobbie() { // <<< here it is
+			let index = Math.floor(Math.random() * 4) + 1  
+			
+			console.log( `Check out this great ${ this._hobbies[index]['name'] }! :3` )
+			
+			setTimeout(() => {
+				window.open( this._hobbies[index]['url'], '_blank' )
+			},3000)
+		}
+	}
+
+	const Bruno = new WebDeveloper(
+		'Bruno Navarrete',
+		'Coffee', 
+		[
+			{ name: 'UK silly game show', url: 'https://www.youtube.com/results?search_query=wilty' },
+			{ name: 'Great Audible', url: 'https://www.audible.com/pd/Extreme-Ownership-Audiobook/B015TVHUA2?qid=1598298681' },
+			{ name: 'Show on Netflix', url: 'https://www.netflix.com/title/80203144' },
+			{ name: 'Beer', url: 'https://www.samueladams.com/our-beers/originals/lager/boston-lager' }
+		]
+	)
+
+```
 
 <!--
 **brunonavarrete/brunonavarrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
