@@ -1,6 +1,6 @@
-# Hi! :wave: I'm Bruno
+# Hi! :wave:  I'm Bruno
 
-I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick profile containing both my [toolbelt](#toolbelt) and a quick [get to know me](#get-to-know-me) script for your JS console. Enjoy your visit :coffee:!
+I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick profile containing both my [developer toolbelt](#toolbelt) and a quick [get to know me](#get-to-know-me) script for your JS console. Enjoy your visit :coffee:!
 
 ---
 
@@ -59,6 +59,9 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Analytics&color=cdb47a&style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Postman&color=cdb47a&style=for-the-badge&logo=postman&logoColor=white)
+![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Markdown&color=cdb47a&style=for-the-badge&logo=markdown&logoColor=white)
+![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Homebrew&color=cdb47a&style=for-the-badge&logo=homebrew&logoColor=white)
+![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Treehouse&color=cdb47a&style=for-the-badge&logo=treehouse&logoColor=white)
 
 ---
 
@@ -66,7 +69,7 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 
 ```javascript
 
-	/* Generate an instance and run the shareHobbie() method to get to know me a bit */
+	/* Just create an instance and run the shareHobbie() method to get to know me a bit */
 
 	class WebDeveloper {
 		constructor(fullName, fuel, hobbies) {
@@ -76,13 +79,13 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 		}
 		shareHobbie() { // <<< here it is
 			const hobbiesLength = this._hobbies.length
-			const index = Math.floor(Math.random() * 4) + 1  
+			const index = Math.floor(Math.random() * hobbiesLength)  
 			
-			console.log(`/* --- Check out this great ${ this._hobbies[index]['name'] }! :3 --- */`)
+			console.log(`/* --- Check out this great ${ this._hobbies[index]['name'] }! (wait for it...) --- */`)
 			
 			setTimeout(() => {
 				window.open( this._hobbies[index]['url'], '_blank' )
-			},3000)
+			},1500)
 		}
 	}
 
@@ -90,26 +93,12 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 		'Bruno Navarrete',
 		'Coffee', 
 		[
-			{ name: 'UK silly game show', url: 'https://www.youtube.com/results?search_query=wilty' },
+			{ name: 'UK game show', url: 'https://www.youtube.com/watch?v=mR2bCnYmau8' },
 			{ name: 'Great Audible', url: 'https://www.audible.com/pd/Extreme-Ownership-Audiobook/B015TVHUA2?qid=1598298681' },
 			{ name: 'Show on Netflix', url: 'https://www.netflix.com/title/80203144' },
+			{ name: 'Show on Prime',url: 'https://www.amazon.com/The-Night-Manager-Season-1/dp/B01EIM5NGG' },
 			{ name: 'Beer', url: 'https://www.samueladams.com/our-beers/originals/lager/boston-lager' }
 		]
 	)
 
 ```
-
-<!--
-**brunonavarrete/brunonavarrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
