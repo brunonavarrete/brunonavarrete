@@ -1,8 +1,11 @@
+```js
 
+	import WebDeveloper from 'https://en.wikipedia.org/wiki/Web_developer';
 
+	class Bruno extends WebDeveloper {}
+
+```
 ---
-
-<div style="text-align:center">
 
 #### Markup and Stylesheets
 
@@ -25,6 +28,7 @@
 #### PHP / CMS
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=php&color=silver&style=for-the-badge&logo=php&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=laravel&color=silver&style=for-the-badge&logo=laravel&logoColor=white)
+![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=composer&color=silver&style=for-the-badge&logo=composer&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=craft%203&color=silver&style=for-the-badge&logo=craft%20cms&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=twig&color=silver&style=for-the-badge)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=wordpress&color=silver&style=for-the-badge&logo=wordpress&logoColor=white)
@@ -73,5 +77,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</div>
