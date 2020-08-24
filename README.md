@@ -8,7 +8,7 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 
 ### Markup and Stylesheets
 
-![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=HTML5&color=003ea0&style=for-the-badge&logo=html5&logoColor=white)
+![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=HTML5&color=003ea0&style=for-the-badge&logo=html5&logoColor=white&url=#)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=CSS3&color=003ea0&style=for-the-badge&logo=css3&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Sass/Scss&color=003ea0&style=for-the-badge&logo=sass&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Bootstrap%204&color=003ea0&style=for-the-badge&logo=bootstrap&logoColor=white)
