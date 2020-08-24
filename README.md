@@ -6,14 +6,14 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 
 ## Toolbelt
 
-#### Markup and Stylesheets
+### Markup and Stylesheets
 
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=HTML5&color=003ea0&style=for-the-badge&logo=html5&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=CSS3&color=003ea0&style=for-the-badge&logo=css3&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Sass/Scss&color=003ea0&style=for-the-badge&logo=sass&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Bootstrap%204&color=003ea0&style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### JavaScript
+### JavaScript
 
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=ES6&color=ffc52f&style=for-the-badge&logo=javascript&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Vue%20js&color=ffc52f&style=for-the-badge&logo=vue.js&logoColor=white)
@@ -24,7 +24,7 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=npm%20&color=ffc52f&style=for-the-badge&logo=npm&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=webpack%20&color=ffc52f&style=for-the-badge&logo=webpack&logoColor=white)
 
-#### PHP / CMS
+### PHP / CMS
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=php&color=silver&style=for-the-badge&logo=php&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=laravel&color=silver&style=for-the-badge&logo=laravel&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=composer&color=silver&style=for-the-badge&logo=composer&logoColor=white)
@@ -32,13 +32,13 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=twig&color=silver&style=for-the-badge)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=wordpress&color=silver&style=for-the-badge&logo=wordpress&logoColor=white)
 
-#### Database
+### Database
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=mysql&color=12284B&style=for-the-badge&logo=mysql&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Mongo%20db&color=12284B&style=for-the-badge&logo=mongodb&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=SQlite&color=12284B&style=for-the-badge&logo=sqlite&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=mariadb&color=12284B&style=for-the-badge&logo=mariadb&logoColor=white)
 
-#### Other
+### Other
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=linux&color=8d744a&style=for-the-badge&logo=linux&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=lamp%20stack&color=8d744a&style=for-the-badge&logo=apache&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=lemp%20stack&color=8d744a&style=for-the-badge&logo=nginx&logoColor=white)
@@ -61,7 +61,9 @@ I'm a Full Stack (Front End-first) Web Developer and this is my GitHub quick pro
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Postman&color=cdb47a&style=for-the-badge&logo=postman&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Markdown&color=cdb47a&style=for-the-badge&logo=markdown&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Homebrew&color=cdb47a&style=for-the-badge&logo=homebrew&logoColor=white)
-![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Treehouse&color=5fcf80&style=for-the-badge&logo=treehouse&logoColor=white&link=https://treehouse.com/brunonavarrete)
+
+### Learning
+![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Treehouse&color=5fcf80&style=for-the-badge&logo=treehouse&logoColor=white&url=https://treehouse.com/brunonavarrete)
 
 ---
 
