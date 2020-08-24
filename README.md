@@ -8,7 +8,7 @@ I'm a Full Stack (Front End-first) Web Developer and this is my quick profile co
 
 ### Markup and Stylesheets
 
-![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=HTML5&color=003ea0&style=for-the-badge&logo=html5&logoColor=white&url=#)
+![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=HTML5&color=003ea0&style=for-the-badge&logo=html5&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=CSS3&color=003ea0&style=for-the-badge&logo=css3&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Sass/Scss&color=003ea0&style=for-the-badge&logo=sass&logoColor=white)
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Bootstrap%204&color=003ea0&style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -63,7 +63,7 @@ I'm a Full Stack (Front End-first) Web Developer and this is my quick profile co
 ![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Homebrew&color=cdb47a&style=for-the-badge&logo=Homebrew&logoColor=white)
 
 ### Learning
-![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Treehouse&color=5fcf80&style=for-the-badge&logo=treehouse&logoColor=white&url=https://treehouse.com/brunonavarrete)
+![forthebadge made-with-python](https://img.shields.io/static/v1?label=&message=Treehouse&color=5fcf80&style=for-the-badge&logo=treehouse&logoColor=white&url=https://treehouse.com/brunonavarrete/)
 
 ---
 
